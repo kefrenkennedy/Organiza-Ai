@@ -1,4 +1,4 @@
-# Do_it App 📝
+# Organiza Aí App 📝
 
 A Frontend Web Application for those who want to organize their events more easily in their life.
 
